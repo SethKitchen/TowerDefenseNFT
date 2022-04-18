@@ -1,0 +1,24 @@
+{
+    "price": 10.0,
+    "number": 750,
+    "gatekeeper": {
+        "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+        "expireOnUse": true
+    },
+    "splTokenAccount": "BXf4UvBUPEPqmx4arLMWFw1EmAuFt8sPi776mJqRKjfd",
+    "splToken": "A4Fpxz1RZGmscTxbF2Hhwywi1mGPVNaucc5gVwuM5Q5b",
+    "goLiveDate": "16 Apr 2022 00:00:00 GMT",
+    "endSettings": {
+        "endSettingType": { "amount":true },
+        "value":750
+    },
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "nft-storage",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "nftStorageKey": "[secret]",
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}
